@@ -8,4 +8,4 @@ Is it responsive?
 
 API: https://fakestoreapi.com/docs / api has 4 category in total 
 
-You can check app here: https://prod.d29lwr4ngci2fo.amplifyapp.com
+You can check app here: https://honey-amazon-clone.netlify.app
